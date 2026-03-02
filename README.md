@@ -1,15 +1,14 @@
+![Profile views](https://komarev.com/ghpvc/?username=ly0o0o&style=flat-square&label=Profile+views)
 
-## About Me
-I'm a backend developer focused on **AI application development**, passionate about building products that help creators grow.
+---
 
-- 💼 Backend Lead @ [**EasyKOL**](https://easykol.com) — AI-powered influencer marketing platform
-- 🛠️ Building my own product → [**Wavely**](https://wavely.cc)
-- 🌱 Currently deep into AI infra, data pipelines & creator economy tools
-- 📫 lyoolio1o1@gmail.com
+# Hi there 👋
 
-## Work Experience
+My name is LiYing (李颖), a backend engineer focused on AI application development and full-stack indie building.
 
-| Company | Period |
-| :------ | :----: |
-| 七猫 Qimao | 2024.05 ~ 2024.08 |
-| 即刻 Jike | 2024.08 ~ 2026.03 |
+🔭 I'm currently working on an AI-powered influencer marketing SaaS platform @ 即刻 Jike.  
+🛠️ Building my own product → [**WaveInflu**](https://wavely.cc), an AI-driven influencer discovery tool.  
+💼 Work experiences:  
+&emsp;七猫 Qimao (2024.05 ~ 2024.08, Backend Engineer)  
+&emsp;即刻 Jike (2024.08 ~ now, Backend Engineer, leading [EasyKOL](https://easykol.com))  
+📫 How to reach me: lyoolio1o1@gmail.com
