@@ -1,12 +1,21 @@
-![](https://komarev.com/ghpvc/?username=ly0O0o)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ly0O0o&color=blueviolet&style=flat-square" />
+</div>
 
 # Hi there 👋
 
-I'm a backend developer focused on AI application development.
+I'm a backend developer focused on **AI application development**, passionate about building products that help creators grow.
 
-- 🚀 Currently leading backend development at **EasyKOL**
-- 🛠️ Building my own product: [Wavely](https://wavely.cc)
-- 💻 Work experiences:
-  - [Qimao (七猫)](https://www.qimao.com) (2024.05 ~ 2024.08)
-  - [Jike (即刻)](https://okjike.com) (2024.08 ~ now)
-- 📫 How to reach me: lyoolio1o1@gmail.com
+## About Me
+
+- 💼 Backend Lead @ [**EasyKOL**](https://easykol.com) — AI-powered influencer marketing platform
+- 🛠️ Building my own product → [**Wavely**](https://wavely.cc)
+- 🌱 Currently deep into AI infra, data pipelines & creator economy tools
+- 📫 lyoolio1o1@gmail.com
+
+## Work Experience
+
+| Company | Period |
+| :------ | :----: |
+| 七猫 Qimao | 2024.05 ~ 2024.08 |
+| 即刻 Jike | 2024.08 ~ 2026.03 |
