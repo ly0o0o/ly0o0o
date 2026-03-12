@@ -12,3 +12,4 @@ My name is LiYing (李颖), a backend engineer focused on AI application develop
 &emsp;七猫 Qimao (2024.05 ~ 2024.08, Backend Engineer)  
 &emsp;即刻 Jike (2024.08 ~ now, Backend Engineer, leading [EasyKOL](https://easykol.com))  
 📫 How to reach me: lyoolio1o1@gmail.com
+🧑‍🏫 Mentor:https://github.com/yunyu950908
