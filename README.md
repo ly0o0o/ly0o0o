@@ -11,6 +11,6 @@ My name is LiYing (李颖), a backend engineer focused on AI application develop
 💼 Work experiences:  
 &emsp;七猫 Qimao (2024.05 ~ 2024.08, Backend Engineer)  
 &emsp;即刻 Jike (2024.08 ~ now, Backend / Algorithm Engineer, leading [EasyKOL](https://easykol.com))  
-&emsp;AHA Creator (2026.03 ~ now, AI Application Backend Engineer)  
+&emsp;[AHA Creator](https://www.ahacreator.com/) / [@AhaAITeam](https://github.com/AhaAITeam) (2026.03 ~ now, AI Application Backend Engineer)  
 📫 How to reach me: lyoolio1o1@gmail.com  
 🧑‍🏫 Mentor: [@yunyu950908](https://github.com/yunyu950908)
