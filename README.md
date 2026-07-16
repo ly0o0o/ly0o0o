@@ -10,7 +10,7 @@ My name is LiYing (李颖), a backend engineer focused on AI application develop
 🛠️ Building my own product → [**WaveInflu**](https://wavely.cc), an AI-driven influencer discovery tool.  
 💼 Work experiences:  
 &emsp;七猫 Qimao (2024.05 ~ 2024.08, Backend Engineer)  
-&emsp;[即刻 Jike](https://github.com/iftechio) (2024.08 ~ now, Backend / Algorithm Engineer, leading [EasyKOL](https://easykol.com))  
+&emsp;[即刻 Jike](https://github.com/iftechio) (2024.08 ~ 2026.03, Backend / Algorithm Engineer, leading [EasyKOL](https://easykol.com))  
 &emsp;[AHA Creator](https://www.ahacreator.com/) (2026.03 ~ now, AI Application Backend Engineer)  
 📫 How to reach me: lyoolio1o1@gmail.com  
 🧑‍🏫 Mentor: [@yunyu950908](https://github.com/yunyu950908)
